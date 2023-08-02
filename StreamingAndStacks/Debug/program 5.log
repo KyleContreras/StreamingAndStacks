@@ -1,0 +1,6 @@
+﻿  astack.cpp
+S:\Documents\School\UM-Flint\Fall 22\CSC-275 (C++)\Programs to do\program 5\astack.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  prog05.cpp
+  Generating Code...
+S:\Documents\School\UM-Flint\Fall 22\CSC-275 (C++)\Programs to do\program 5\astack.cpp(74): warning C4715: 'AStack::pop': not all control paths return a value
+  program 5.vcxproj -> S:\Documents\School\UM-Flint\Fall 22\CSC-275 (C++)\Programs to do\program 5\Debug\program 5.exe
